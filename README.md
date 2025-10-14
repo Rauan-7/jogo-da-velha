@@ -10,3 +10,5 @@
 
 - ❌ Rauan 1
 - ⭕ Rauan 2
+
+## - 🏆 Vencedor do jogo = Rauan 1
