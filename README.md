@@ -6,7 +6,7 @@
 | B | ⭕  |  ⭕ | ❌  |
 | C |  ⭕ | ❌  | ❌  |
 
-**Legenda**
+**JOGADORES**
 
 - ❌ Rauan 1
 - ⭕ Rauan 2
